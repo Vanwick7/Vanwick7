@@ -2,9 +2,9 @@
 
 # 👋 Olá, eu sou o Vanwick7
 
-### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedor em formação ADS focado em Full Stack
 
-🚀 Em busca da minha primeira oportunidade como Desenvolvedor Full Stack.
+🚀 Criando projetos reais para meu portfólio
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=HTML+%7C+CSS+%7C+JavaScript;Python+%7C+Node.js;Sempre+aprendendo+algo+novo." />
 
