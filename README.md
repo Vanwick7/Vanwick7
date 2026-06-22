@@ -12,11 +12,11 @@
 
 ---
 
-# 🚀 Tecnologias
+## 🚀 Tecnologias
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,vscode,github&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,vscode,github&perline=7" />
 
 </div>
 
