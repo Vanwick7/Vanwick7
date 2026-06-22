@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Olá, eu sou Vanderson!
 
-<!--
-**Vanwick7/Vanwick7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas
+🚀 Futuro Desenvolvedor Full Stack
+📍 Pernambuco - Brasil
 
-Here are some ideas to get you started:
+🛠 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript • Python • HTML • CSS • React • Node.js • Git
+
+📊 GitHub Stats
+
+(Estatísticas)
+
+🔥 Linguagens mais usadas
+
+(Gráfico)
+
+📫 Contato
+
+LinkedIn | Email
